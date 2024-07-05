@@ -1,4 +1,5 @@
 Breast Cancer Prediction Project
+![OIP](https://github.com/numaanfarooq/breast-cancer-ml-prediction/assets/144113131/d36c72a5-8897-4265-8ae0-b67a149a8ac9)
 
 
 Introduction
@@ -29,3 +30,4 @@ Install the required dependencies listed in requirements.txt.
 Explore the dataset in the data/ directory.
 Execute the Jupyter notebooks in the notebooks/ directory sequentially to perform data exploration, preprocessing, model training, evaluation, and interpretation.
 Review the documentation in the docs/ directory for additional information and insights.
+![download (4)](https://github.com/numaanfarooq/breast-cancer-ml-prediction/assets/144113131/59620bf4-8a77-4033-a699-fcebc628b39e)
